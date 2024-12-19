@@ -1,8 +1,8 @@
 <header>
 
 # This is a test
-## Second bit of the test
-### You get the idea
+# Second bit of the test
+# You get the idea
 <!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
@@ -83,4 +83,4 @@ Get help: [Post in our discussion board](https://github.com/orgs/skills/discussi
 
 </footer>
 
-**Added 3 useless phrases before the actual header**
+Added 3 useless phrases before the actual header
